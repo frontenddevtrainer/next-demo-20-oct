@@ -7,6 +7,7 @@ export default function Home() {
     <>
       <Toggle />
       <PeopleComponent />
+      Demo Test
     </>
   );
 }
