@@ -14,6 +14,7 @@ export default function Toggle() {
       >
         Toggle: {isActive ? "Yes" : "No"}
       </button>
+      <p>Status: {isActive ? "Yes" : "No"}</p>
     </div>
   );
 }
